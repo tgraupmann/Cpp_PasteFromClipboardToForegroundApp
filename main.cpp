@@ -122,7 +122,7 @@ void SendInputToForeground(HWND hwnd, char c)
                 break;
             case '%':
                 useShift = true;
-                sendChar = '%';
+                sendChar = '5';
                 break;
 
             case '6':
