@@ -14,4 +14,6 @@ Press the `left shift` and `right shift` keys at the same time to paste the text
 
 * [Cpp_PasteFromClipboardToForegroundApp](https://github.com/tgraupmann/Cpp_PasteFromClipboardToForegroundApp)
 
+* [CSharp_ShareClipboard](https://github.com/tgraupmann/CSharp_ShareClipboard)
+
 * [StayAwake](https://github.com/tgraupmann/StayAwake)
